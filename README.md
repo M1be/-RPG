@@ -6,7 +6,7 @@
 ### 필수 조건 / REQUIREMENTS
   Python 3.5가 설치돼있어야 합니다. / Python 3.5 need to be installed.
 
-##설치 방법 / HOW TO INSTALL
+## 설치 방법 / HOW TO INSTALL
   1. 이 리포지토리를 다운로드합니다. / Download this repository.
   2. startup.py를 작동시킵니다! / Click startup.py to start!
 

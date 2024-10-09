@@ -10,6 +10,22 @@
   1. 이 리포지토리를 다운로드합니다. / Download this repository.
   2. startup.py를 작동시킵니다! / Click startup.py to start!
 
+<details>
+  <summary>타입 설명</summary>
+  <ul>
+    
+    불(Fire): 강력한 공격 마법으로 적을 태우거나 폭발을 일으킴.
+    
+    물(Water): 회복이나 적을 약화시키는 마법, 물리적인 장애물을 극복하는 데 사용.
+    
+    바람(Wind): 속도와 민첩성을 높이거나 바람을 이용한 공격.
+    
+    땅(Earth): 방어력을 강화하거나 지형을 이용한 공격/방어.
+    
+    독(Poison): 지속적인 데미지를 가하거나 적을 취약하게 만든다.
+    
+  </ul>
+</details>
 
 
 ### **타입 상성표**
